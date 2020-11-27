@@ -5,7 +5,11 @@
   "main": "index.js",
   "author": "tarkikk",
   "license": "MIT",
-  "dependencies": {    
-    "puppeteer": "^5.5.0"
+  "dependencies": {
+    "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "prompt": "^1.0.0",
+    "puppeteer": "^5.5.0",
+    "xml-js": "^1.6.11"
   }
 }
