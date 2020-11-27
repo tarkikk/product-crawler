@@ -1,0 +1,11 @@
+{
+  "name": "crawler-demo",
+  "version": "0.1.0",
+  "description": "Amazon product scrapper",
+  "main": "index.js",
+  "author": "tarkikk",
+  "license": "MIT",
+  "dependencies": {    
+    "puppeteer": "^5.5.0"
+  }
+}
